@@ -1,4 +1,6 @@
+console.log("ok 1")
 import 'dotenv/config';
+console.log("ok 2")
 import express from 'express';
 import helmet from 'helmet';
 import cors from 'cors';
